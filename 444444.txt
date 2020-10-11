@@ -1,1 +1,3 @@
 Krishna is creating new text file.
+@nd line.
+3rd line.
